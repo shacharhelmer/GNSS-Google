@@ -4,3 +4,5 @@
 *.nmea
 *raw_state_bit_map.json
 *accumulated_delta_range_state_bit_map.json
+*.zip
+.ipynb_checkpoints/*
